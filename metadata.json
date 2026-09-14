@@ -1,0 +1,10 @@
+{
+  "name": "SignBridge - Real-Time Indian Sign Language Translator",
+  "description": "Real-time Indian Sign Language (ISL) translator using MediaPipe landmark extraction, static & dynamic sign classification, topic-comment grammar reordering, and multi-language speech/caption output.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
